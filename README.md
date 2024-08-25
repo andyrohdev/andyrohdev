@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer with a love 
 ## 🛠️ Skills
 | Frontend       | Backend        | Tools & Platforms   |
 | -------------- | -------------- | ------------------- |
-| HTML, CSS, JS  | Java, Spring   | Git, IntelliJ IDEA  |
+| HTML, CSS, JS  | Java, Spring   | Git, IntelliJ IDEA, Visual Studio Code |
 | Vue.js         | REST APIs      | PostgreSQL          |
 | Responsive Web | JUnit Testing  | Agile Methodologies |
 
@@ -32,9 +32,8 @@ Check out my portfolio for more information about my work:
 
 | Project Name | Description | GitHub Link |
 | ------------ | ----------- | ----------- |
-| **LanternDB** | A video game database web application that lets users explore, review, and collect their favorite games. | [LanternDB Repo](https://github.com/andyrohdev/LanternDB) |
-| **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test Repo](https://github.com/andyrohdev/Typing-Test) |
-| **Game Dashboard** | A Vue.js application for managing game collections with dynamic loading and search functionalities. | [Game Dashboard Repo](https://github.com/andyrohdev/Game-Dashboard) |
+| **LanternDB** | A video game database web application that lets users explore, review, and collect their favorite games. | [LanternDB Repo](https://github.com/andyrohdev/lanterndb-capstone) |
+| **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test Repo](https://github.com/andyrohdev/typingtest-project) |
 
 ---
 
