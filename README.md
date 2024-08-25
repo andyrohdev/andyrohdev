@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Andy Roh!
 
-<!--
-**andyrohdev/andyrohdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate Software Developer with a love for learning, creativity, and problem-solving. From healthcare to tech, I’ve combined attention to detail and teamwork skills with a lifelong enthusiasm for software development. Beyond coding, I'm an avid competitive gamer and a dedicated video editor specializing in dynamic gaming content.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Full-Stack Developer with hands-on experience from Tech Elevator Bootcamp.
+- 💻 Proficient in Java, Spring Boot, Vue.js, SQL, and REST APIs.
+- 🕹️ Competitive gamer and team leader with a passion for strategic gameplay.
+- 🎥 Freelance video editor focused on gaming montages and visual storytelling.
+- 📚 Lifelong learner with a passion for continuous improvement in tech.
+
+---
+
+## 🛠️ Skills
+| Frontend       | Backend        | Tools & Platforms   |
+| -------------- | -------------- | ------------------- |
+| HTML, CSS, JS  | Java, Spring   | Git, IntelliJ IDEA  |
+| Vue.js         | REST APIs      | PostgreSQL          |
+| Responsive Web | JUnit Testing  | Agile Methodologies |
+
+---
+
+## 🔗 My Portfolio
+Check out my portfolio for more information about my work:  
+**[andyrohdev.github.io](https://andyrohdev.github.io)**
+
+---
+
+## 💼 Featured Projects
+
+| Project Name | Description | GitHub Link |
+| ------------ | ----------- | ----------- |
+| **LanternDB** | A video game database web application that lets users explore, review, and collect their favorite games. | [LanternDB Repo](https://github.com/andyrohdev/LanternDB) |
+| **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test Repo](https://github.com/andyrohdev/Typing-Test) |
+| **Game Dashboard** | A Vue.js application for managing game collections with dynamic loading and search functionalities. | [Game Dashboard Repo](https://github.com/andyrohdev/Game-Dashboard) |
+
+---
+
+## 📫 Let's Connect!
+- LinkedIn: [andyrohdev](https://www.linkedin.com/in/andyrohdev/)
+- Email: rohjamesandy@gmail.com
