@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer with a love 
 
 ## 🔗 My Portfolio
 Check out my portfolio for more information about my work:  
-**[andyrohdev.github.io](https://andyrohdev.github.io)**
+**[Portfolio](https://andyrohdev.github.io/portfolio-website/)**
 
 ---
 
