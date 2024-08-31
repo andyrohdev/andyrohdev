@@ -34,7 +34,7 @@ Check out my portfolio for more information about my work:
 | ------------ | ----------- | ----------- |
 | **LanternDB** | A video game database web application that lets users explore, review, and collect their favorite games. | [LanternDB Repo](https://github.com/andyrohdev/lanterndb-capstone) |
 | **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test Repo](https://github.com/andyrohdev/typingtest-project) |
-
+| **Portfolio Website** | A personal portfolio website showcasing my projects, skills, and experience. | [Portfolio Website Repo](https://github.com/andyrohdev/portfolio-website) |
 ---
 
 ## 📫 Let's Connect!
