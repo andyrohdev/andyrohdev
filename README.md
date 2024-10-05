@@ -33,7 +33,7 @@ Check out my portfolio for more information about my work:
 | Project Name | Description | Website Link | GitHub Link |
 | ------------ | ----------- | ------------ | ----------- |
 | **LanternDB** | A video game database web application that lets users explore, review, and collect their favorite games. | N/A | [LanternDB Repo](https://github.com/andyrohdev/lanterndb-capstone) |
-| **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test](https://andyrohdev.github.io/typingtest-project/) | [Typing Test Repo](https://github.com/andyrohdev/typingtest-project) |
+| **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test](https://andyrohdev.github.io/typing-test/) | [Typing Test Repo](https://github.com/andyrohdev/typing-test) |
 | **Portfolio Website** | A personal portfolio website showcasing my projects, skills, and experience. | [Portfolio Website](https://andyrohdev.github.io/portfolio-website/) | [Portfolio Website Repo](https://github.com/andyrohdev/portfolio-website) |
 | **Spotify Profile Overview** | A project that provides users with statistics on their Spotify listening activity, like top songs and artists, and playlist details. | [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/) | [Spotify Profile Overview Repo](https://github.com/andyrohdev/spotify-profile-overview) |
 
