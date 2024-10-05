@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a passionate Software Developer with a love 
 | Frontend       | Backend        | Tools & Platforms   |
 | -------------- | -------------- | ------------------- |
 | HTML, CSS, JS  | Java, Spring   | Git, IntelliJ IDEA, Visual Studio Code |
-| Vue.js         | REST APIs      | PostgreSQL          |
+| Vue.js, React  | REST APIs      | PostgreSQL          |
 | Responsive Web | JUnit Testing  | Agile Methodologies |
 
 ---
@@ -30,11 +30,13 @@ Check out my portfolio for more information about my work:
 
 ## 💼 Featured Projects
 
-| Project Name | Description | GitHub Link |
-| ------------ | ----------- | ----------- |
-| **LanternDB** | A video game database web application that lets users explore, review, and collect their favorite games. | [LanternDB Repo](https://github.com/andyrohdev/lanterndb-capstone) |
-| **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test Repo](https://github.com/andyrohdev/typingtest-project) |
-| **Portfolio Website** | A personal portfolio website showcasing my projects, skills, and experience. | [Portfolio Website Repo](https://github.com/andyrohdev/portfolio-website) |
+| Project Name | Description | Website Link | GitHub Link |
+| ------------ | ----------- | ------------ | ----------- |
+| **LanternDB** | A video game database web application that lets users explore, review, and collect their favorite games. | N/A | [LanternDB Repo](https://github.com/andyrohdev/lanterndb-capstone) |
+| **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test](https://andyrohdev.github.io/typingtest-project/) | [Typing Test Repo](https://github.com/andyrohdev/typingtest-project) |
+| **Portfolio Website** | A personal portfolio website showcasing my projects, skills, and experience. | [Portfolio Website](https://andyrohdev.github.io/portfolio-website/) | [Portfolio Website Repo](https://github.com/andyrohdev/portfolio-website) |
+| **Spotify Profile Overview** | A project that provides users with statistics on their Spotify listening activity, like top songs and artists, and playlist details. | [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/) | [Spotify Profile Overview Repo](https://github.com/andyrohdev/spotify-profile-overview) |
+
 ---
 
 ## 📫 Let's Connect!
