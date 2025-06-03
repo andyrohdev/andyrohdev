@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I’m a passionate Software Developer with a love 
 | HTML, CSS, JS  | Java, Spring   | Git, IntelliJ IDEA, Visual Studio Code |
 | Vue.js, React  | REST APIs      | PostgreSQL          |
 | Responsive Web | JUnit Testing  | Agile Methodologies |
+| TypeScript |
+| Next.js, Zod |
+| Mantine |
 
 ---
 
@@ -36,7 +39,8 @@ Check out my portfolio for more information about my work:
 | **Typing Test** | A typing speed test with multiple gamemodes and a theme switcher feature. | [Typing Test](https://andyrohdev.github.io/typing-test/) | [Typing Test Repo](https://github.com/andyrohdev/typing-test) |
 | **Portfolio Website** | A personal portfolio website showcasing my projects, skills, and experience. | [Portfolio Website](https://andyrohdev.github.io/portfolio-website/) | [Portfolio Website Repo](https://github.com/andyrohdev/portfolio-website) |
 | **Spotify Profile Overview** | A project that provides users with statistics on their Spotify listening activity, like top songs and artists, and playlist details. | [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/) | [Spotify Profile Overview Repo](https://github.com/andyrohdev/spotify-profile-overview) |
-|**Net Income Processor** | A console tool that provides users a easy way to calculate their paycheck deductables, net income, gross income, etc. | N/A | [Net Income Processor (NIP)](https://github.com/andyrohdev/net-income-processor) |
+| **Net Income Processor** | A console tool that provides users a easy way to calculate their paycheck deductables, net income, gross income, etc. | N/A | [Net Income Processor (NIP)](https://github.com/andyrohdev/net-income-processor) |
+| **QuickTask** | A frontend only demo application I made to test out Next.js, Mantine, Typescript, etc. Features a minimalistic, spooky interface. | [QuickTask](https://quick-task-nu.vercel.app/) | [QuickTask Repo](https://github.com/andyrohdev/quick-task) |
 
 ---
 
